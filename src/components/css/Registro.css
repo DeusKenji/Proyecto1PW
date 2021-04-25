@@ -1,0 +1,47 @@
+.temp1 {
+    background: white;
+    font-family: "Roboto";
+    margin-top: 30px;
+}
+
+.wrap {
+    max-width: 700px;
+    padding: 10px;
+    margin: auto;
+    background: #fff;
+    box-shadow: 0px 0px 3px grey;
+}
+
+.contenedor-formulario {
+    width: 100%;
+    color: #f2f2f2;
+    
+}
+.formulario {
+    width: 100%;
+    margin: auto;
+}
+.contenedor-formulario .formulario .input-group {
+    position: relative;
+}
+.contenedor-formulario .formulario .input-group input[type="text"],
+.contenedor-formulario .formulario .input-group input[type="email"],
+.contenedor-formulario .formulario .input-group input[type="password"],
+.contenedor-formulario .formulario .input-group input[type="tel"],
+.contenedor-formulario .formulario .input-group input[type='number']{
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #303f9f;
+    width: 100%;
+    outline: none;
+    background: none;
+    border: none;
+    border-bottom: 2px solid #bbdefb;
+}
+.contenedor-formulario .formulario .input-group label {
+    color: #303f9f;
+}
+
+
+
+

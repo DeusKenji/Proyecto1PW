@@ -1,0 +1,21 @@
+.general{
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.register{
+    border:grey 7px outset;
+    border-radius: 10px;
+}
+
+.botones{
+    margin-left: 50px;
+}
+
+.subt{
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
